@@ -1,2 +1,0 @@
-# helloworld-helm
-HelloWorld Helm
